@@ -7,13 +7,13 @@ align-items: center;
 padding: 160px 0px;
 gap: 24px;
 
-background:yellow;
+background:white;
 position: relative;
 width: 1440px;
 height: 3846px;
 }
 h2{
-    color: blue;
+    color: green;
 }
 .support{
     display: flexbox;
